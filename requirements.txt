@@ -6,3 +6,10 @@ Flask
 joblib
 requests
 xgboost
+flask-cors
+shap
+lime 
+Werkzeug
+python-dateutil
+pytz
+six
